@@ -11,7 +11,7 @@ const promise = new Promise((resolve, reject) => {
                 userAge: 19,
                 adress: {
                     city: "Osh",
-                    street: "Kygystan"
+                    country: "Kygystan"
                 }
             }
             const jsonstringify = JSON.stringify(jsonData)
